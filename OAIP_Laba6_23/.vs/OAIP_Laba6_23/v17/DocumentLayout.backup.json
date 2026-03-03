@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aigul\\source\\repos\\OAIP_Laba6_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCD41D4-BDAC-44B7-BF3D-74CC5A0BE3ED}|OAIP_Laba6_23\\OAIP_Laba6_23.csproj|c:\\users\\aigul\\source\\repos\\oaip_laba6_23\\oaip_laba6_23\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCD41D4-BDAC-44B7-BF3D-74CC5A0BE3ED}|OAIP_Laba6_23\\OAIP_Laba6_23.csproj|solutionrelative:oaip_laba6_23\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCD41D4-BDAC-44B7-BF3D-74CC5A0BE3ED}|OAIP_Laba6_23\\OAIP_Laba6_23.csproj|c:\\users\\aigul\\source\\repos\\oaip_laba6_23\\oaip_laba6_23\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CFCD41D4-BDAC-44B7-BF3D-74CC5A0BE3ED}|OAIP_Laba6_23\\OAIP_Laba6_23.csproj|solutionrelative:oaip_laba6_23\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Aigul\\source\\repos\\OAIP_Laba6_23\\OAIP_Laba6_23\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OAIP_Laba6_23\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Aigul\\source\\repos\\OAIP_Laba6_23\\OAIP_Laba6_23\\MainWindow.xaml",
+              "RelativeToolTip": "OAIP_Laba6_23\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T22:03:41.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aigul\\source\\repos\\OAIP_Laba6_23\\OAIP_Laba6_23\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OAIP_Laba6_23\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Aigul\\source\\repos\\OAIP_Laba6_23\\OAIP_Laba6_23\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OAIP_Laba6_23\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T22:03:37.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
